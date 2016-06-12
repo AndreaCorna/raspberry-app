@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/andreacorna/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/andreacorna/Documents/Projects/raspberry-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_6decc89efcf7a5d6e89cc6e9723c3457bede6ab3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/andreacorna/Documents/Projects/raspberry-app/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/andreacorna/Documents/Projects/raspberry-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_c076f13f4185a81e3c560c8be46dd4b02175d36b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/andreacorna/Documents/Projects/raspberry-app/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/andreacorna/Documents/Projects/raspberry-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_8a7d6e037b4b078a49e971d5467f900687447348/classes.dex" />
+    </item>
+    <item
+        jar="/Users/andreacorna/Documents/Projects/raspberry-app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/andreacorna/Documents/Projects/raspberry-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_28a4f46d0929f04e82103f60ed37359060808b0b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/andreacorna/Documents/Projects/raspberry-app/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c8b519f14ce2dcaf1cf5a58dfb3e5be9fe14f4ef">
+        <dex dex="/Users/andreacorna/Documents/Projects/raspberry-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b477ef141690ff79a97b7841173f06881e0428db/classes.dex" />
+    </item>
+    <item
+        jar="/Users/andreacorna/Documents/Projects/raspberry-app/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0b0032e93beb9931990b3e9c2bbf15e7ba26e997">
+        <dex dex="/Users/andreacorna/Documents/Projects/raspberry-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3ff8dd76ef0ee75af6085f1c9cf0b45467bbd2f2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/andreacorna/Documents/Projects/raspberry-app/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/andreacorna/Documents/Projects/raspberry-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_80aadafa279d78ddf4f56213bc4795142dda1c10/classes.dex" />
+    </item>
+    <item
+        jar="/Users/andreacorna/Documents/Projects/raspberry-app/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/andreacorna/Documents/Projects/raspberry-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_f57388b8186f2e217090c987d6a36e8327b6181a/classes.dex" />
+    </item>
+
+</items>
